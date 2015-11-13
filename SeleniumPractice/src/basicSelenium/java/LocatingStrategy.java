@@ -48,6 +48,3 @@ public class LocatingStrategy
 }
 
 
-/*output:
-http://www.vogella.com/img/icons/132x132xtraining_vogella.png.pagespeed.ic.uwY0dMg3PZ.png
-*/
