@@ -21,11 +21,8 @@ public class LocatingStrategy
          driver.findElement(By.id("search_button")).click();
          Thread.sleep(2000);   
          
- //locating by name
+ 
         
-          /*driver.findElement(By.name("q")).sendKeys("git");
-          driver.findElement(By.name("sa")).click();
-           Thread.sleep(2000);   */
        
  //locating by linktext
          
